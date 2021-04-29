@@ -1,0 +1,154 @@
+@media only screen and (max-width: 990px){
+    .row{
+        flex-direction: column;
+    }
+    .max-width-2 {
+        max-width: 1320px;
+        padding: 0 20px;
+        margin: auto;
+    }
+    .box-1{
+        margin-top: 30px;
+    }
+}
+@media only screen and (max-width: 850px){
+    .navbar .menu li{
+        display: block;
+    }
+    .menu{
+        position: fixed;
+        width: 60%;
+        height: 100vh;
+        background: #ff0000;
+        top: 0px;
+        right: -60%;
+        text-align: center;
+        transition: all .5s;
+    }
+    .row{
+        margin-top: 1px;
+    }
+    .campus-content {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .navbar .menu li{
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+      }
+    .navbar .menu li a{
+        font-size: 25px;
+      }
+      .menu-btn{
+          display: block;
+      }
+      .cut-btn{
+          display: block;
+      }
+      .max-width {
+        max-width: 1400px;
+        padding: 0 19px;
+        margin: auto;
+    }
+    .home-content .head-1{
+        font-size: 30px;
+    }
+    .max-width-3{
+        max-width: 1300px;
+        padding: 0 12px;
+        margin-right: 32px;
+    }
+    .max-width-4{
+        max-width: 1300px;
+        padding: 0 12px;
+        margin-right: 32px;
+    }
+    .main-set .img img{
+        width: 240px;
+        padding-left: 25px;
+        height: auto;
+    }
+   .feedback-content{
+       display: block;
+   }
+   .feedback-2{
+       margin-top: 25px;
+   }
+   .max-width-8{
+    max-width: 1300px;
+    padding: 0 0px;
+    margin: auto;
+    }
+    .test{
+        padding-left: 90px;
+    }
+    .feedback-1 img {
+        width: 50px;
+        margin-left: 24px;
+    }
+    .feedback-2 img {
+        width: 50px;
+        margin-left: 24px;
+    }
+}
+@media only screen and (max-width: 1310px){
+    .images img{
+        width: 317px;
+        height: 230px;
+        padding-left: 25px;
+    }
+    .img img{
+        width: 300px;
+        padding-left: 25px;
+        height: auto;
+    }
+ 
+}
+@media only screen and (max-width: 570px){
+    .main-set{
+        display: block;
+    }
+    .images{
+        display: block;
+    }
+    .main-set .img img{
+        width: 295px;
+        padding-left: 25px;
+        margin-top: 15px;
+    }
+    .images img {
+        width: 320px;
+        height: 430px;
+        padding-left: 25px;
+        margin-top: 15px;
+    }
+    .para-1{
+        font-size: 15px;
+    }
+    .head-2{
+        font-size: 30px;
+    }
+    .course-content {
+        text-align: center;
+        margin-top: 11px;
+    }
+    .facilites-images{
+        display: block;
+    }
+    .max-width-6 {
+        max-width: 1349px;
+        padding: 0 0px;
+        margin-left: 24px;
+    }
+    .about{
+        width: 105%;
+    }
+    .max-width-7{
+        max-width: 1300px;
+        padding: 0 0px;
+        margin: auto;
+    }
+    
+}
+
