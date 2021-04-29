@@ -149,6 +149,12 @@
         padding: 0 0px;
         margin: auto;
     }
-    
+    .head-12 {
+        text-align: center;
+        font-family: 'Baloo Bhai 2', cursive;
+        font-size: 32px;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
 }
 
